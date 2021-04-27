@@ -124,7 +124,7 @@
 <img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/laravel-FF2D20?logo=laravel&logoColor=white" />
 
-- 👨‍💻 **Internship as Web Developer **\
+- 👨‍💻 **Internship as Web Developers**\
 📆 2021 - Moment\
 📍 **Strateq Group** - Kuala Lumpur, Malaysia
 
