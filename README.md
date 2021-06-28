@@ -23,6 +23,12 @@
     </a>
 </p>
 
+<p align="center">
+    <a href="#">
+        <img src="https://github-profile-trophy.vercel.app/?username=chengkangzai&theme=radical&rank=SECRET,S,AA,A&row=2&column=3" />
+    </a>
+</p>
+
 <h2> 🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=chengkangzai&label=Profile%20views&color=0e75b6&style=flat" alt="View Profile Counter" /></h2>
 <!-- Badge Credit to : https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 <p align="center">
