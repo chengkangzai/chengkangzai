@@ -110,7 +110,7 @@
   <summary>📃 Resume</summary>
 
 ## Printable PDF
-<a href="https://github.com/chengkangzai/chengkangzai.github.io/raw/master/resume.pdf" target="_blank">Click me to download Printable Resume </a>
+<a href="https://chengkangzai.com/resume.pdf" target="_blank">Click me to download Printable Resume </a>
 
 ## Education
 
