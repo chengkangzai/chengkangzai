@@ -126,13 +126,23 @@
 ## Experience
 
 <img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/PHP-777BB4?&logo=php&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/laravel-FF2D20?logo=laravel&logoColor=white" />
-
+    
 - 👨‍💻 **Internship as Web Developers**\
-📆 2021 - Moment\
+📆 May 2020 - July 2021 \
 📍 **Strateq Group** - Kuala Lumpur, Malaysia
+
+    
+<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=whit" />
+    
+ - 👨‍💻 **Internship as Fullstack Developers**\
+📆 July 2022 - November 2022 Moment\
+📍 **Softinn Solution** - Melaka, Malaysia
 
 
 <img align="right" src="https://img.shields.io/badge/English-Second Language-blue" />
