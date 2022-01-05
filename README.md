@@ -141,7 +141,7 @@
 <img align="right" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=whit" />
     
  - 👨‍💻 **Internship as Fullstack Developers**\
-📆 July 2022 - November 2022 Moment\
+📆 July 2022 - November 2022 \
 📍 **Softinn Solution** - Melaka, Malaysia
 
 
