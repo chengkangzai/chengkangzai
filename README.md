@@ -6,9 +6,10 @@
 <h3 align="center">A "Lazy" developer passionate about creating software that simplify people's life. </h3>
 
 
-<p align="center"> 📖  Currently Study at <a href="http://www.apu.edu.my/" alt="Asia Pacific University"> Asia Pacific University </a> On Software Enginering </p>
+<p align="center"> 📖  Currently Study at <a href="http://www.pixalink.io/" alt="Pixalink"> Pixalink </a> On Product Building as a Chief Technology Wizard
+ </p>
 
-<p align="center">I am open to hire !</p>
+<!-- <p align="center">I am open to hire !</p> -->
 
 <p align="center"> ⚡️ Fun fact: I convert Coffee to Code ☕️ </p>
 <p align="center">
