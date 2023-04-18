@@ -6,7 +6,7 @@
 <h3 align="center">A "Lazy" developer passionate about creating software that simplify people's life. </h3>
 
 
-<p align="center"> 📖  Currently Study at <a href="http://www.pixalink.io/" alt="Pixalink"> Pixalink </a> On Product Building as a Chief Technology Wizard
+<p align="center"> 📖  Currently Hacking Around at <a href="http://www.pixalink.io/" alt="Pixalink"> Pixalink </a> On Product Building as a Chief Technology Wizard
  </p>
 
 <!-- <p align="center">I am open to hire !</p> -->
